@@ -4,7 +4,7 @@
 
 - Understand the folder structure and key files for running a React application
 - Write a basic React component
-- Debug React components using the React Developer Tools
+- Debug R`eact components using the React Developer Tools
 
 ## Overview
 
